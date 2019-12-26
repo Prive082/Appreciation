@@ -10,7 +10,7 @@ h1, h2, h3, h4{
 }
 .jumbotron{
     background-image: url('../imgs/Hug.jpg');
-    background-size:cover;  
+    background-size: cover;
     height:80vh;
 }
 
